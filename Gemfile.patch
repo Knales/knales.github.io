@@ -1,0 +1,8 @@
+diff --git a/Gemfile b/Gemfile
+index 37f5eaa..b21341a 100644
+--- a/Gemfile
++++ b/Gemfile
+@@ -1,2 +1,2 @@
+-source 'https://rubygems.org'
++source 'file:/home/luilver/Downloads/rubygems/'
+ gem 'github-pages', group: :jekyll_plugins

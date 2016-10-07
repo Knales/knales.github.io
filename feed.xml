@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knales</title>
+    <description>We are a cuban startup that sells value added services, focusing on mobile messaging services and making the information attainable to the majority of our population. We take special aim on those people that can not have access through the conventional methods.
+</description>
+    <link>http://knal.es/</link>
+    <atom:link href="http://knal.es/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 06 Oct 2016 23:26:50 -0400</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 23:26:50 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.4</generator>
+    
+      <item>
+        <title>Estimando el volumen de recargas del exterior de Etecsa</title>
+        <description>&lt;p&gt;Si nuestros cálculos no nos fallan y mientras &lt;a href=&quot;https://knal.es/blog/update/2016/07/22/serie-consecutiva-permite-conocer-cantidad-de-recargas-del-exterior.html&quot;&gt;Cubacel lo permita&lt;/a&gt; en este post iremos publicando mensualmente el volumen de recargas del exterior que Etecsa recibe y conjuntamente con ello la cifra aproximada de dólares que percibe por este concepto.&lt;/p&gt;
+
+&lt;p&gt;Entre el 8 de Agosto y el 12 de Septiembre:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recargas: &lt;code class=&quot;highlighter-rouge&quot;&gt;1.014.479&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ingresos: &lt;code class=&quot;highlighter-rouge&quot;&gt;$20.289.580&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entre el 14 de Julio y el 8 de Agosto:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recargas: &lt;code class=&quot;highlighter-rouge&quot;&gt;576.064&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ingresos: &lt;code class=&quot;highlighter-rouge&quot;&gt;$11.521.280&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entre el 16 de Junio y el 14 de Julio:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recargas: &lt;code class=&quot;highlighter-rouge&quot;&gt;869.647&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ingresos: &lt;code class=&quot;highlighter-rouge&quot;&gt;$17.392.940&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entre el 9 de Mayo y el 16 de Junio:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recargas: &lt;code class=&quot;highlighter-rouge&quot;&gt;1.681.493&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ingresos: &lt;code class=&quot;highlighter-rouge&quot;&gt;$33.629.860&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entre el 15 de Abril y el 9 de Mayo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recargas: &lt;code class=&quot;highlighter-rouge&quot;&gt;236.347&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ingresos: &lt;code class=&quot;highlighter-rouge&quot;&gt;$4.726.940&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entre el 26 Febrero y el 15 de Abril:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recargas: &lt;code class=&quot;highlighter-rouge&quot;&gt;1.777.580&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;Ingresos: &lt;code class=&quot;highlighter-rouge&quot;&gt;$35.551.600&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Mon, 12 Sep 2016 05:26:06 -0400</pubDate>
+        <link>http://knal.es/blog/update/2016/09/12/estimando-el-volumen-de-recargas-del-exterior-de-etecsa.html</link>
+        <guid isPermaLink="true">http://knal.es/blog/update/2016/09/12/estimando-el-volumen-de-recargas-del-exterior-de-etecsa.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Problemas con la actualización de estados de nuestros mensajes</title>
+        <description>&lt;p&gt;Los pasados días &lt;code class=&quot;highlighter-rouge&quot;&gt;21&lt;/code&gt; y &lt;code class=&quot;highlighter-rouge&quot;&gt;22&lt;/code&gt; de Julio estuvimos presentando problemas con la
+actualización de estados de nuestros mensajes enviados a través de uno de
+nuestros proveedores de servicio de mesajería &lt;a href=&quot;https://es.wikipedia.org/wiki/Servicio_de_mensajes_cortos&quot;&gt;SMS-MT&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El &lt;code class=&quot;highlighter-rouge&quot;&gt;90%&lt;/code&gt; de los mensajes enviados por este proveedor se quedaban con estado
+Pendiente porque nuestro sistema estaba teniendo en cuenta, solamente, el
+primero de un lote de &lt;code class=&quot;highlighter-rouge&quot;&gt;10&lt;/code&gt; que ellos nos envían.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot3.png&quot; alt=&quot;blog screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Después de varias horas de interacción con el equipo de soporte del proveedor,
+nuestros desarrolladores encontraron, &lt;a href=&quot;http://mine.knal.es/issues/339&quot;&gt;documentaron&lt;/a&gt; en «La
+Mina» &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; y, posteriormente, resolvieron dicho bug.&lt;/p&gt;
+
+&lt;p&gt;Lamentamos el hecho y pedimos disculpas a todos aquellos que, de una forma u
+otra, se hayan visto afectados por el mismo.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Así llamamos a nuestro sistema de gestión de proyectos &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 25 Jul 2016 10:09:00 -0400</pubDate>
+        <link>http://knal.es/blog/update/2016/07/25/problemas-con-la-actualizacion-de-estado-de-los-mensajes.html</link>
+        <guid isPermaLink="true">http://knal.es/blog/update/2016/07/25/problemas-con-la-actualizacion-de-estado-de-los-mensajes.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Serie consecutiva permite estimar la cantidad de recargas</title>
+        <description>&lt;p&gt;No creemos habernos dado cuenta de algo que nuestros amigos del gremio &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+hayan dejado pasar inadvertidos. El único mérito de &lt;a href=&quot;https://knal.es&quot;&gt;Knales&lt;/a&gt;, si
+tal cosa existe, ha sido publicarlo.&lt;/p&gt;
+
+&lt;p&gt;En cualquier caso, lo cierto es que revisando el mensaje de confirmación de
+Cubacel podemos apreciar un número de transacción entre otras informaciones
+propias del beneficio recibido:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot1.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De lo que seguramente no se percataron muchos es que ese identificador numérico es
+consecutivo lo que permite, con una simple resta, saber la cantidad de
+transacciones de ese tipo entre un identificador y otro.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot2.png&quot; alt=&quot;My helpful screenshot-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Así podemos, por ejemplo, restando el más antiguo de los identificadores (el
+de la imagen anterior) al más reciente de los identificadores (el
+de la primera imagen) obtener la cantidad de transacciones que han ocurrido en
+el período transcurrido entre las 2 recargas:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;65516805 - 64647158 = 869647
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Asumiendo que el costo de una recarga del exterior es de 20 USD &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; podemos,
+multiplicando el resultado de la resta anterior por 20, llegar a cifras como
+las que publicamos en nuestro &lt;a href=&quot;http://bit.ly/2a81W4W&quot;&gt;artículo anterior&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Científicos de las universidades y técnicos de los institutos afines &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Requerimos la confirmación de alguna fuente oficial &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 22 Jul 2016 07:16:46 -0400</pubDate>
+        <link>http://knal.es/blog/update/2016/07/22/serie-consecutiva-permite-conocer-cantidad-de-recargas-del-exterior.html</link>
+        <guid isPermaLink="true">http://knal.es/blog/update/2016/07/22/serie-consecutiva-permite-conocer-cantidad-de-recargas-del-exterior.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Pitching de proyectos en AM-PM</title>
+        <description>&lt;h2 id=&quot;amrica-por-su-msica&quot;&gt;América por su Música&lt;/h2&gt;
+
+&lt;h4 id=&quot;fbrica-de-arte-cubano&quot;&gt;Fábrica de Arte Cubano&lt;/h4&gt;
+
+&lt;h6 id=&quot;la-habana-18-de-junio-de-2016&quot;&gt;La Habana, 18 de Junio de 2016&lt;/h6&gt;
+
+&lt;h3 id=&quot;hiptesis&quot;&gt;Hipótesis:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;¿Podría &lt;strong&gt;Knales&lt;/strong&gt; tener alguna utilidad para los creadores, los gestores,
+los espacios escénicos o cualquiera de las profesiones alrededor de la
+música en Cuba?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;qu-es-knales&quot;&gt;¿Qué es Knales?&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Somos&lt;/strong&gt; un grupo que, utilizando Tecnologías de la Informática, creó un
+sistema de distribución de información por SMS en aras de facilitar el flujo
+de las comunicaciones y satisfacer las necesidades de información de la
+población en general.&lt;/p&gt;
+
+&lt;h4 id=&quot;para-qu-sirve&quot;&gt;¿Para qué sirve?&lt;/h4&gt;
+
+&lt;p&gt;Promovemos lugares, divulgamos eventos, anunciamos productos y servicios, a la
+vez que ofertamos información a demanda.&lt;/p&gt;
+
+&lt;h4 id=&quot;cmo-funciona&quot;&gt;¿Cómo funciona?&lt;/h4&gt;
+
+&lt;p&gt;Nuestros Pilares Básicos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No&lt;/strong&gt; enviar información indeseada (&lt;strong&gt;SPAM&lt;/strong&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No&lt;/strong&gt; molestar con información ya enviada (&lt;strong&gt;Repetir&lt;/strong&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No&lt;/strong&gt; permitir información pendiente o sin entregar (&lt;strong&gt;Inconformidad&lt;/strong&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;cmo-accedo&quot;&gt;¿Cómo accedo?&lt;/h4&gt;
+
+&lt;p&gt;A través de nuestra página web &lt;a href=&quot;https://knal.es&quot;&gt;https://knal.es&lt;/a&gt;, en alguno
+de nuestros puntos de venta o por mediación de nuestros gestores comerciales
+usted puede sumarse a la cada vez más creciente cifra de suscriptores.&lt;/p&gt;
+
+&lt;h4 id=&quot;cmo-pago-mi-suscripcin&quot;&gt;¿Cómo pago mi suscripción?&lt;/h4&gt;
+
+&lt;p&gt;En CUC, en Peso Cubano o en una combinación de estas: en efectivo, por
+transferencia electrónica o bancaria, por giro postal o con saldo desde su
+teléfono móvil.&lt;/p&gt;
+
+&lt;h4 id=&quot;cmo-me-hago-promocin&quot;&gt;¿Cómo me hago promoción?&lt;/h4&gt;
+
+&lt;p&gt;Después de creado su perfil en nuestro sistema, usted puede gestionar, de
+manera independiente, sus propias campañas, definiendo el texto de la
+promoción así como los receptores de su envío.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, si lo desea, nuestro equipo puede gestionarle sus envíos
+promocionales ahorrándole mucho tiempo y recursos.&lt;/p&gt;
+
+&lt;h4 id=&quot;cmo-recibo-la-informacin-de-mi-inters&quot;&gt;¿Cómo recibo la información de mi interés?&lt;/h4&gt;
+
+&lt;p&gt;Nuestras &lt;a href=&quot;/services#todos-los-knales&quot;&gt;Clasificaciones de Servicios a Demanda&lt;/a&gt; han sido diseñadas
+para agrupar la mayor información posible o bien enviarle solamente la
+información que desea, dentro de las cuales sobresalen:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;El &lt;a href=&quot;/services#v---notificaciones&quot;&gt;notificador de correo nauta&lt;/a&gt; que le envía un sms cada vez que su
+buzón de Nauta reciba un correo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/services#x---miscelneas&quot;&gt;Sonando en la Habana&lt;/a&gt; es la Cartelera de eventos musicales ¿Quién
+toca? ¿Dónde? y usted puede definir el ¿Cuándo?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/services#x---miscelneas&quot;&gt;Noticias&lt;/a&gt; culturales con los titulares de las noticias más
+importante del día.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Así mismo usted puede solicitar a nuestro equipo su propio Knal de
+información.&lt;/p&gt;
+
+&lt;h4 id=&quot;ventajas-y-desventajas&quot;&gt;Ventajas y Desventajas&lt;/h4&gt;
+
+&lt;p&gt;Ventajas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Llevar su mensaje a muchos destinatarios en el momento que lo desee.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Difundir su información de manera gratuita.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En el caso peor el costo es considerablemente bajo.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desventajas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nuestro soporte técnico es todavía insuficiente (No 24x7).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El desarrollo de knales a la medida presupone demoras de hasta 1 mes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Esporádicamente algunos de nuestros proveedores son bloqueados temporalmente.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ejemplos-de-uso&quot;&gt;Ejemplos de uso&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.fac.cu&quot;&gt;Fábrica de Arte Cubano&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.caribeexpress.net&quot;&gt;Caribe Express&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.kewelta.com&quot;&gt;Kewelta&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;conclusiones&quot;&gt;¡Conclusiones!&lt;/h4&gt;
+
+&lt;p&gt;Knales brinda a los artistas, centros culturales, promotores y público en
+general, una vía eficaz para la publicación de eventos, distribución de la
+promoción cultural y recepción de discímiles fuentes de información …
+siempre por SMS.&lt;/p&gt;
+
+&lt;p&gt;Para más información puede escribirnos a &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#107;&amp;#110;&amp;#097;&amp;#108;&amp;#046;&amp;#101;&amp;#115;&quot;&gt;&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#107;&amp;#110;&amp;#097;&amp;#108;&amp;#046;&amp;#101;&amp;#115;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;¡Siempre estaremos felices de atenderle!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 18 Jun 2016 10:00:00 -0400</pubDate>
+        <link>http://knal.es/blog/update/2016/06/18/america-por-su-musica.html</link>
+        <guid isPermaLink="true">http://knal.es/blog/update/2016/06/18/america-por-su-musica.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Knales!</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Telecommunications_in_Cuba&quot;&gt;Communications in Cuba&lt;/a&gt; are, still, very far from the reach of most
+of the people. &lt;code class=&quot;highlighter-rouge&quot;&gt;Knales&lt;/code&gt; offers services to allow common cuban to access a
+grand variety of information, leisure or even enhance their business through
+SMS.&lt;/p&gt;
+
+&lt;p&gt;We currently provide useful and varied information to our customers for only 1
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Cuban_peso&quot;&gt;cup&lt;/a&gt; each 160 characters &lt;a href=&quot;https://es.wikipedia.org/wiki/Servicio_de_mensajes_cortos&quot;&gt;SMS-MT&lt;/a&gt;. We already have 38 &lt;code class=&quot;highlighter-rouge&quot;&gt;knales&lt;/code&gt;
+(services) among them &lt;code class=&quot;highlighter-rouge&quot;&gt;Scoreboards&lt;/code&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;NBA&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;MLB&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;NHL&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Any soccer league&lt;/code&gt;),
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Weather Forecastings&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Notifiers&lt;/code&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;Nauta&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Gmail&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Facebook&lt;/code&gt;), &lt;code class=&quot;highlighter-rouge&quot;&gt;Currency
+Exchanges&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;News&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Classifieds&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Musical Events&lt;/code&gt; and so many others.&lt;/p&gt;
+
+&lt;p&gt;We have, so far, one strategic alliance with Popular: Suite of Classifieds by
+SMS, which you can find in the &lt;a href=&quot;https://es.wikipedia.org/wiki/El_Paquete_Semanal&quot;&gt;Paquete Semanal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;/services/&quot;&gt;Knales’ services&lt;/a&gt; for more info on how to get the most out
+of Knales. File all bugs/feature requests at &lt;a href=&quot;https://github.com/knales/web&quot;&gt;Knales’ GitHub
+repo&lt;/a&gt;. If you have questions, you can &lt;a href=&quot;/contact/&quot;&gt;contacts us&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Apr 2016 09:46:16 -0400</pubDate>
+        <link>http://knal.es/blog/update/2016/04/23/welcome-to-knales.html</link>
+        <guid isPermaLink="true">http://knal.es/blog/update/2016/04/23/welcome-to-knales.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
