@@ -29,6 +29,22 @@
 <noscript><p><img src="//piwik.knal.es/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
+<!-- CHatwoot -->
+<script>
+  (function(d,t) {
+    var BASE_URL="https://knales-recargas-soporte.herokuapp.com";
+    var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=BASE_URL+"/packs/js/sdk.js";
+    s.parentNode.insertBefore(g,s);
+    g.onload=function(){
+      window.chatwootSDK.run({
+        websiteToken: 'Uo89ojDW6spyTWZGvF96NtnT',
+        baseUrl: BASE_URL
+      })
+    }
+  })(document,"script");
+</script>
+<!-- End Chatwoot code-->
 
   <body>
 
